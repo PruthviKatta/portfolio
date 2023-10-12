@@ -26,7 +26,7 @@ const greeting = {
 "A prolific GIS developer unlocking new possibilities by customizing diverse applications"
     ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1VN8c2h7q6KrWKPsA3ZJ6h7i_HmRbvsck/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
